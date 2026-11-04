@@ -1,0 +1,6 @@
+{
+  "name": "TAREX — Luxury Real Estate & Architectural Homes",
+  "description": "Discover exceptional luxury residences, modern architectural villas, and curated contemporary homes with organic design and thoughtful guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
